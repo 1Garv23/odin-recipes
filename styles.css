@@ -1,0 +1,16 @@
+.heading{
+    color:black;
+    font-weight: bold;
+    text-align: center;
+}
+.heading.non-index{
+    background-color: orange;
+}
+.images{
+    height: 250px;
+    width:auto;
+}
+.dish{
+    background-color: black;
+}
+
